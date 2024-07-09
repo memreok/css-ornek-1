@@ -1,0 +1,47 @@
+.ana-baslik{
+    text-align: center;
+    color: burlywood;
+}
+a{
+    color: rgb(115, 13, 224);
+    text-align: center;
+    text-decoration :none;
+    
+}
+ a:hover{
+    color: rgb(171, 180, 17);
+}
+.links li{
+    text-align: center;
+    list-style-type:none ;
+    display: inline;
+    padding-left: 300px;
+}
+.sayfa-baslik{
+    text-align: center;
+    color: darkkhaki;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color:tan;
+}
+.anaSayfa-urunler{
+    text-align: center;
+    list-style-type:none ;
+}
+.anaSayfa-urunler li a:hover{
+    color: rgb(171, 180, 17);
+}
+ol li .gitar img{
+    width: 15%;
+    height: 15%;
+}
+ol li{
+    text-align: center;
+}
+.metin{
+    text-align: center;
+}
